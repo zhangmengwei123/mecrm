@@ -1,0 +1,36 @@
+[ 2018-06-28T08:34:43+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-28T08:34:45+08:00 ] 127.0.0.1 /bower_components/metisMenu/dist/metisMenu.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2018-06-28T08:41:21+08:00 ] 127.0.0.1 /bower_components/metisMenu/dist/metisMenu.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2018-06-28T09:09:19+08:00 ] 127.0.0.1 /bower_components/metisMenu/dist/metisMenu.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2018-06-28T09:10:44+08:00 ] 127.0.0.1 /bower_components/metisMenu/dist/metisMenu.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2018-06-28T09:10:45+08:00 ] 127.0.0.1 /bower_components/metisMenu/dist/metisMenu.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+ERR: 无法加载模块:Bower_components
+
